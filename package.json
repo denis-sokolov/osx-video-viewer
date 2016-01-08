@@ -10,7 +10,8 @@
     "urlcode-json": "0.0.5"
   },
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=4.0.0",
+    "npm": ">=3.0.0"
   },
   "private": true
 }
