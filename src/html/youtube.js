@@ -4,6 +4,7 @@ module.exports = function(url){
     const id = url.query.v
     const list = url.query.list
 
+    // https://developers.google.com/youtube/player_parameters
     const params = {
         autohide: 1,
         autoplay: 1,
