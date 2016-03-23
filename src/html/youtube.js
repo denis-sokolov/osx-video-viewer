@@ -20,5 +20,5 @@ module.exports = function(url){
       }
       return '<iframe src="https://www.youtube.com/embed/' +
           escape(id) + '?' +
-          escape(urlcode.encode(params)) + '">'
+          urlcode.encode(params) + '">'
 }
