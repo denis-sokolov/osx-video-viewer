@@ -13,5 +13,5 @@ Surround the url with single quote characters, otherwise your shell will start i
 ```
 git clone git@github.com:denis-sokolov/osx-video-viewer.git
 npm install
-npm start -- --on-top --on-all-spaces 'url-to-the-video'
+npm start -- 'url-to-the-video' --on-top --on-all-spaces
 ```
