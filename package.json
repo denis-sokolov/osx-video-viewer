@@ -4,7 +4,7 @@
   },
   "dependencies": {
     "argparse": "^1.0.3",
-    "electron-prebuilt": "^0.35.0",
+    "electron-prebuilt": "^1.4.5",
     "escape-html": "^1.0.3",
     "urlcode-json": "0.0.5"
   },
